@@ -18,3 +18,6 @@ module.exports = {
         return id
     }
 }
+
+//apply a double here to avoid saving something to the real database
+//using spies and stubs with jest

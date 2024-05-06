@@ -29,3 +29,4 @@ module.exports = function registerUser(email, password) {
         return null
     }
 }
+//interact with databse over network
